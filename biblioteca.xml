@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/xsl" href="biblioteca.xsl"?>
-<biblioteca  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///D://LenguajeMarcas/2ºTrimestre/2TrimestreTrabajofinal/biblioteca.xsl">
+<biblioteca  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///D://LenguajeMarcas/2ºTrimestre/2TrimestreTrabajofinal/ProyectoLenguaje2Trimestre/biblioteca.xsl">
   <libro>
     <foto>miki.webp</foto>
     <titulo>Miki exploradora</titulo>
