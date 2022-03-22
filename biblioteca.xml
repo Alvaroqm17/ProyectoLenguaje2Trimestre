@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="biblioteca.xsl"?>
+<biblioteca  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///D://LenguajeMarcas/2ºTrimestre/2TrimestreTrabajofinal/biblioteca.xsl">
+  <libro>
+    <foto>miki.webp</foto>
+    <titulo>Miki exploradora</titulo>
+    <autor>Jimmy el Temeroso</autor>
+    <fechaPublicacion año="1976"/>
+  </libro>
+  <libro>
+    <foto>senda.webp</foto>
+    <titulo>Senda andaluza a las 4:pm</titulo>
+    <autor fechaNacimiento="28/03/1936">Timmy el Pequeño</autor>
+    <fechaPublicacion año="1973"/>
+  </libro>
+  <libro>
+    <foto>summer.webp</foto>
+    <titulo>Summer vibes</titulo>
+    <autor fechaNacimiento="28/03/1936">Wimmy el Perdido</autor>
+    <fechaPublicacion año="1969"/>
+  </libro>
+</biblioteca>
